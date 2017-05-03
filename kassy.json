@@ -1,0 +1,6 @@
+{
+    "name": "demo-catchall",
+    "version": "1.0.0",
+    "startup": "catchall.js",
+    "type": "service"
+}
